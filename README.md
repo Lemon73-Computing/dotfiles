@@ -11,7 +11,7 @@ Marshal + Collect | Materials download commands
 (e.g. `https://github.com/lemon73-computing/marshallect/blob/main/docs/copyright-text_japan-gov-bunka.sh`)
 1. Get raw links  
 (e.g. `https://raw.githubusercontent.com/lemon73-computing/marshallect/main/docs/copyright-text_japan-gov-bunka.sh`)
-1. Move this command on your bash
+1. Move this command on your terminal
     ```bash
     sh  <(curl "Raw URL")
 
