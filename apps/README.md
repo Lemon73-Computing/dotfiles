@@ -28,11 +28,20 @@
 
 ### Musics
 
-- Domino
-- LMMS
-- Audacity
-- Synthesizer V Studio Basic
-- VST Plugins
+| App Name | Version | Since |
+| -- | -- | -- |
+| Domino | 1.44 | 2022/3/10 19:57 |
+| LMMS | 1.2.2-win64 | 2022/8/5 23:31 |
+| Audacity | win-3.1.3-64bit | 2022/7/23 20:55 |
+| Synthesizer V Studio Basic | 1.7.1 | 2022/10/23 16:48 |
+| (Synthesizer V RikkaAI Lite) | 1.0.1 | 2022/10/23 16:49 |
+
+### VST Plugins
+
+| App Name | Version | Since |
+| -- | -- | -- |
+| OTT | ? | 2022/5/11 13:37 |
+| Lifeline Console | ? | 2023/6/6 7:07 |
 
 ### Voices
 
