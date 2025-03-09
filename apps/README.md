@@ -17,7 +17,10 @@
 
 ### 3D Arts
 
-- MagicalVoxel
+| App Name | Version | Since |
+| -- | -- | -- |
+| MagicalVoxel | 0.99.2a | 2018/10/11 22:58 |
+
 - MMD
 - Blender
 
@@ -73,6 +76,9 @@
 
 ## Other tools
 
-- KDE Connect
-- Tortoise SVN
-- Lokalize
+| App Name | Version | Since |
+| -- | -- | -- |
+| KDE Connect | 21.12.3-903-windows-msvc2019_64-cl | 2022/5/20 21:11 |
+| Tortoise SVN | 1.14.5.29465-x64-svn-1.14.2 | 2023/2/23 19:31 |
+| (Tortoise SVN LanguagePack) | 1.14.5.29465-x64-ja | 2023/2/23 19:34 |
+| Lokalize | 22.12.2-1409-windows-cl-msvc2019-x86_64 | 2023/2/23 20:02 |
