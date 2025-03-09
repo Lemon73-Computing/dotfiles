@@ -1,13 +1,21 @@
 # Applications List
 
-## 2D Arts
+## Arts
 
-- MediBang Paint Pro
-- GIMP
-- Krita
-- Inkscape
+### 2D Arts
 
-## 3D Arts
+| App Name | Version | Since |
+| -- | -- | -- |
+| MediBang Paint Pro | 11.0-64bit | 2017/8/8 19:43 |
+| MediBang Paint Pro | 26.1-64bit | 2021/3/5 18:53 |
+| MediBang Paint Pro | 27.2-64bit | 2022/3/11 19:00 |
+| GIMP | 2.10.30 | 2022/3/12 10:47 |
+| Krita | x64-5.0.6 | 2022/6/6 1:24 |
+| Krita (Nightly) | x64-5.2.0-3ec8ca76cd | 2023/10/6 20:36 |
+| Krita (Nightly) | x64-5.2.1-0dd8ac2f7a | 2023/12/3 20:54 |
+| Inkscape | 1.2.1 (2022-07-14_9c6d41e410-x64_5o3Ir4D) | 2022/10/30 1:05 |
+
+### 3D Arts
 
 - MagicalVoxel
 - MMD
@@ -15,18 +23,20 @@
 
 ## Audio
 
+### Musics
+
 - Domino
 - LMMS
 - Audacity
 - Synthesizer V Studio Basic
 - VST Plugins
 
-## Voices
+### Voices
 
 - Softalk
 - Yukarinette
 
-## Audio-Others
+### Audio-Others
 
 - MidRadio (YAMAHA SXG)
 - EcoDecoTool114
