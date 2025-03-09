@@ -40,7 +40,7 @@
 
 | App Name | Version | Since |
 | -- | -- | -- |
-| OTT | ? | 2022/5/11 13:37 |
+| OTT | 1.35 | 2022/5/11 13:37 |
 | Lifeline Console | ? | 2023/6/6 7:07 |
 
 ### Voices
@@ -55,23 +55,37 @@
 
 ## Development
 
-- VSCode
-- Git
-- Visual Studio 2022
-- Qt
-- Arduino IDE
-- GitHub Desktop
+### Editors
+
+| App Name | Version | Since |
+| -- | -- | -- |
+| VSCode | x64-1.44.2 | 2021/2/7 10:22 |
+| Visual Studio | ? (2022) | 2022/3/19 10:39 |
+| Qt[^qt] | unified-windows-x64-4.4.1-online | 2022/7/21 13:52 |
+| Qt | unified-windows-x64-4.5.0-online | 2022/12/4 21:47 |
+| Arduino IDE | 2.2.1 Windows 64bit | 2023/12/9 14:04 |
+
 - Unity
+  - Hub
   - 2018.2.17f1
   - 2021.3.9f1
-- Unity Hub
-- FileZilla
-- VirtualBox
 
-## Useful Tools
+[^qt]: Include CMake_64, mingw1120_64, Ninja, QtCreator, QtDesignStudio and sdktool
+
+### CLIs
+
+- Git
+
+### OS Writers
 
 - Fedora Media Writer
 - Rufus
+
+### Others
+
+- GitHub Desktop
+- FileZilla
+- VirtualBox
 
 ## Movie Editors
 
