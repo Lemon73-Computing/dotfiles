@@ -64,17 +64,33 @@
 | Qt[^qt] | unified-windows-x64-4.4.1-online | 2022/7/21 13:52 |
 | Qt | unified-windows-x64-4.5.0-online | 2022/12/4 21:47 |
 | Arduino IDE | 2.2.1 Windows 64bit | 2023/12/9 14:04 |
-
-- Unity
-  - Hub
-  - 2018.2.17f1
-  - 2021.3.9f1
+| Apache NetBeans IDE | 17-bin-windows-x64 | 2023/3/29 13:03 |
+| ~~Atom~~ | ? (x64) | 2022/7/21 13:47 |
 
 [^qt]: Include CMake_64, mingw1120_64, Ninja, QtCreator, QtDesignStudio and sdktool
 
+### Game Engines
+
+| App Name | Version | Since |
+| -- | -- | -- |
+| Unity Hub | ? | 2022/09/03 16:40 |
+| Unity | 2018.2.17f1 | 2018/12/07 20:12 |
+| Unity | 2021.3.9f1 | 2022/08/21 13:22 |
+
 ### CLIs
 
-- Git
+| App Name | Version | Since |
+| -- | -- | -- |
+| Git | 2.37.1-64-bit | 2022/8/11 10:21 |
+| Git | 2.42.0.2-64-bit | 2023/9/13 22:43 |
+| .NET SDK | 8.0.100-win-x64 | 2023/11/23 12:27 |
+| Windows App Runtime | ? (install-x64) | 2023/11/23 21:47 |
+| Windows Desktop Runtime | 3.1.3-win-x86 | 2021/2/9 20:06 |
+| Windows Desktop Runtime | 8.0.0-win-x64 | 2023/11/20 0:36 |
+| Firebase tools | ? (instant-win) | 2024/1/4 2:44 |
+| JDK | 20_windows-x64_bin | 2023/3/29 13:10 |
+| node | v21.6.1-x64 | 2024/1/28 15:10 |
+| Python | 3.11.3-amd64 | 2023/6/4 6:05 |
 
 ### OS Writers
 
@@ -83,9 +99,11 @@
 
 ### Others
 
-- GitHub Desktop
-- FileZilla
-- VirtualBox
+| App Name | Version | Since |
+| -- | -- | -- |
+| GitHub Desktop | 3.2.9? (x64) | 2022/8/14 21:00 |
+| FileZilla | 3.62.2_win64_sponsored2 | 2023/1/20 16:53 |
+| VirtualBox | 6.1.14-140239-Win | 2022/4/24 1:22 |
 
 ## Movie Editors
 
