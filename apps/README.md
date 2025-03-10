@@ -14,15 +14,29 @@
 | Krita (Nightly) | x64-5.2.0-3ec8ca76cd | 2023/10/6 20:36 |
 | Krita (Nightly) | x64-5.2.1-0dd8ac2f7a | 2023/12/3 20:54 |
 | Inkscape | 1.2.1 (2022-07-14_9c6d41e410-x64_5o3Ir4D) | 2022/10/30 1:05 |
+| ~~Nvidia Canvas~~ | 1.000.000.215 | 2021/7/4 15:58 |
 
 ### 3D Arts
 
 | App Name | Version | Since |
 | -- | -- | -- |
 | MagicalVoxel | 0.99.2a | 2018/10/11 22:58 |
+| ~~MMD~~ | v2.02 | 2021/2/9 19:37 |
+| ~~MMD~~ | v5.24 | 2021/2/9 19:37 |
+| ~~MMD~~ | v9.26 | 2021/2/9 19:37 |
+| MMD | v9.26 x64 | 2021/2/9 19:37 |
+| MMD | v9.32 x64 | 2021/6/6 17:49 |
 
-- MMD
-- Blender
+### 3D Render
+
+| Render Name | Version | Since |
+| -- | -- | -- |
+| Radeon Pro Render | 3.5.0_Windows (Blender) | 2023/3/24 18:11 |
+| LuxCore Render | ? (latest-win64, Blender) | 2023/5/3 20:40 |
+| ~~YafaRay~~ | v3.5.1 (Blender 2.79 Windows MinGW-GCC7 64bit) | 2023/8/11 1:41 |
+| ~~blenderseed~~ | 2.0.0-beta-0-g6b8f474 (Blender-2.80-win64) | 2023/8/11 1:30 |
+| ~~appleseed~~ | 2.1.0-beta-0-g015adb503 (win64-vc141) | 2023/5/3 21:25 |
+| ~~D5 Render~~ | 2.5.0 | 2023/8/11 1:05 |
 
 ## Audio
 
@@ -38,15 +52,19 @@
 
 ### VST Plugins
 
-| App Name | Version | Since |
+| Plugin Name | Version | Since |
 | -- | -- | -- |
 | OTT | 1.35 | 2022/5/11 13:37 |
 | Lifeline Console | ? | 2023/6/6 7:07 |
 
 ### Voices
 
+| App Name | Version | Since |
+| -- | -- | -- |
+| COEIROINK | CPU v1.0.1 | 2022/3/19 23:54 |
+| Yukarinette | 1.0.8 x64 | 2022/3/24 17:40 |
+
 - Softalk
-- Yukarinette
 
 ### Audio-Others
 
@@ -104,6 +122,7 @@
 | GitHub Desktop | 3.2.9? (x64) | 2022/8/14 21:00 |
 | FileZilla | 3.62.2_win64_sponsored2 | 2023/1/20 16:53 |
 | VirtualBox | 6.1.14-140239-Win | 2022/4/24 1:22 |
+| M5Burner | v3-beta-win-x64 | 2023/12/10 12:28 |
 
 ## Movie Editors
 
