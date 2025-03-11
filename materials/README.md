@@ -70,17 +70,30 @@
 | KDE neon | 20230629-0719 (user) | 2023/7/2 15:02 |
 | KDE neon | 20231130-0716 (user) | 2023/12/4 18:52 |
 
-- Windows
-  - 8.1
-  - 10
-  - 11
-- Linux
-  - RedHat
-    - Cent
-    - Fedora KDE
-    - Fedora Cinnamon
-    - Fedora Workstation
-- Others
+### RedHat
+
+| Name | Version (Type/Arch) | Date |
+| -- | -- | -- |
+| CentOS | 7 (Everything-2009/x86_64) | 2022/3/23 21:34 |
+| Fedora | 39-1.5 (Cinnamon/x86_64) | 2024/1/10 22:53 |
+| Fedora | 36-1.5 (KDE/x86_64) | 2022/5/22 17:50 |
+| Fedora | 37-1.7 (KDE/x86_64) | 2022/12/12 13:07 |
+| Fedora | 38-1.6 (KDE/x86_64) | 2023/7/1 18:32 |
+| Fedora | 39-1.5 (KDE/x86_64) | 2024/1/10 20:03 |
+| Fedora | 35-1.2 (Workstation/x86_64) | 2022/4/5 14:09 |
+| Fedora | 36-1.5 (Workstation/x86_64) | 2022/5/22 17:47 |
+
+### Windows
+
+| Version (Type/Arch) | Date |
+| -- | -- |
+| 8.1 (Japanese/x64) | 2022/12/16 14:18 |
+| 10 (Japanese/x64) | 2023/1/8 17:43 |
+| 11 22H2 (Japanese/x64v2) | 2023/10/23 21:10 |
+
+### Others
+
+None
   
 ## Movies
 
