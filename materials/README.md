@@ -57,16 +57,24 @@
 
 ## OS
 
+### Debian
+
+| Name | Version (Type/Arch) | Date |
+| -- | -- | -- |
+| Kubuntu | 21.10 (desktop/amd64) | 2022/3/24 1:05 |
+| Kubuntu | 22.04 (desktop/amd64) | 2022/4/25 18:12 |
+| Linux mint | 20.2 (cinnamon/64bit) | 2021/11/9 21:27 |
+| Linux mint | 21.2 (cinnamon/64bit) | 2024/1/12 17:32 |
+| Lubuntu | 22.04 (desktop/amd64) | 2022/5/22 15:27 |
+| KDE neon | 20221208-0715 (user) | 2022/12/12 17:01 |
+| KDE neon | 20230629-0719 (user) | 2023/7/2 15:02 |
+| KDE neon | 20231130-0716 (user) | 2023/12/4 18:52 |
+
 - Windows
   - 8.1
   - 10
   - 11
 - Linux
-  - Debian
-    - Kubuntu
-    - Mint
-    - Lubuntu
-    - KDE neon
   - RedHat
     - Cent
     - Fedora KDE
