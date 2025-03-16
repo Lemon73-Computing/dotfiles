@@ -13,8 +13,8 @@
 
 ## Musics
 
-- 魔王魂
-- ミツキヨ
+- [魔王魂](https://maou.audio)
+- [ミツキヨ](https://soundcloud.com/mitsukiyo_5)
 
 ## Audios
 
@@ -27,13 +27,13 @@
 
 ## Audio-SE
 
-- 効果音ラボ
-- びたちー素材館
+- [効果音ラボ](https://soundeffect-lab.info)
+- [びたちー素材館](http://www.vita-chi.net/sozai1.htm)
 
 ## Docs
 
 - 2015 IntuosComic Guidebook (Wacom)
-- Voynich Manuscript
+- [Voynich Manuscript](https://collections.library.yale.edu/catalog/2002046)
 - [2023 Copyright Documentation (文化庁)](./docs/copyright-text_japan-gov-bunka.sh)
 
 ## Fonts
