@@ -64,13 +64,14 @@
 | -- | -- | -- |
 | COEIROINK | CPU v1.0.1 | 2022/3/19 23:54 |
 | Yukarinette | 1.0.8 x64 | 2022/3/24 17:40 |
-
-- Softalk
+| Softalk | ? | ? |
 
 ### Audio-Others
 
-- MidRadio (YAMAHA SXG)
-- EcoDecoTool114
+| App Name | Version | Since |
+| -- | -- | -- |
+| MidRadio (YAMAHA SXG) | ? | ? |
+| EcoDecoTool114 | ? | ? |
 
 ## Development
 
@@ -113,8 +114,10 @@
 
 ### OS Writers
 
-- Fedora Media Writer
-- Rufus
+| App Name | Version | Since |
+| -- | -- | -- |
+| Fedora Media Writer | ? | ? |
+| Rufus | ? | ? |
 
 ### Others
 
@@ -127,13 +130,14 @@
 
 ## Movie Editors
 
-- YMM
-  - 3
-  - 4
-  - 4 Lite
-- AviUtl
-- Kdenlive
-- FFmpeg
+| App Name | Version | Since |
+| -- | -- | -- |
+| YMM3 | ? | ? |
+| YMM4 | ? | ? |
+| YMM4 Lite | ? | ? |
+| AviUtl | ? | ? |
+| Kdenlive | ? | ? |
+| FFmpeg | ? | ? |
 
 ## Other tools
 
